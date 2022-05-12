@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://admin:admin123@cluster0.uu8n3.mongodb.net/expensesDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
+}
